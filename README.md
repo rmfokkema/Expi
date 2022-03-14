@@ -1,4 +1,4 @@
-[![](xbarapp.com/public/img/xbar-menu-preview.png)](https://xbarapp.com/)
+[![](https://xbarapp.com/public/img/xbar-menu-preview.png)](https://xbarapp.com/)
 
 # Expi
 
